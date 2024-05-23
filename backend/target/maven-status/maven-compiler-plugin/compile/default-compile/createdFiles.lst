@@ -1,0 +1,17 @@
+ru\itmo\wp\domain\Post.class
+ru\itmo\wp\controller\JwtController.class
+ru\itmo\wp\WpApplication.class
+ru\itmo\wp\repository\UserRepository.class
+ru\itmo\wp\repository\PostRepository.class
+ru\itmo\wp\controller\PostController.class
+ru\itmo\wp\form\validator\UserCredentialsEnterValidator.class
+ru\itmo\wp\service\UserService.class
+ru\itmo\wp\controller\UserController.class
+ru\itmo\wp\form\UserCredentials.class
+ru\itmo\wp\service\JwtService.class
+ru\itmo\wp\exception\NoSuchResourceException.class
+ru\itmo\wp\domain\User.class
+ru\itmo\wp\controller\handler\RestControllerExceptionHandler.class
+ru\itmo\wp\service\PostService.class
+ru\itmo\wp\form\validator\UserCredentialsRegisterValidator.class
+ru\itmo\wp\exception\ValidationException.class
